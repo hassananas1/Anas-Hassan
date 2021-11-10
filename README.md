@@ -6,7 +6,7 @@
   Email: anas.12222@gmail.com
   Cell: (206)-712-4242
   
-  Resume: [Resume SPU updated.docx](https://github.com/hassananas1/hassananas1/files/7499477/Resume.SPU.updated.docx)
+  Resume: [Anas_Resume.pdf](https://github.com/hassananas1/hassananas1/files/7516347/Anas_Resume.pdf)
 
   Linkin: https://www.linkedin.com/in/anasmhassan/
 <!---
