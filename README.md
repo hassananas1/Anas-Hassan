@@ -4,7 +4,7 @@
 - 💞️ I’m looking for opportunities in software engineering through an internship. 
 - 📫 How to reach me
   Email: anas.12222@gmail.com
-  Cell: (206)-712-4242
+  
   
   Resume: [Anas_Resume.pdf](https://github.com/hassananas1/hassananas1/files/7516347/Anas_Resume.pdf)
 
