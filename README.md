@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anas Hassan
 - 👀 I’m interested in Computer Science and Information Systems. I am currently studying at Seattle Pacific University (SPU).
-- 🌱 I’m currently learning C++. Data structures to be more specific. I am currently in Data Structures II. 
+- 🌱 I’m currently learning C++ with Data structures and Algorithms.
 - 💞️ I’m looking for opportunities in software engineering through an internship. 
 - 📫 How to reach me
   Email: anas.12222@gmail.com
